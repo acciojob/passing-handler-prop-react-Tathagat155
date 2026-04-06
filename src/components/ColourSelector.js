@@ -5,7 +5,7 @@ const ColourSelector = ({ changeColor }) => {
   return (
     <div>
 
-      <button style={{ backgroundColor: "blue" }} onClick={() => changeColor("red")}>Blue</button>
+      <button style={{ backgroundColor: "blue" }} onClick={() => changeColor("blue")}>Blue</button>
 
       <button style={{ backgroundColor: "orange" }} onClick={() => changeColor("orange")}>Orange</button>
 
