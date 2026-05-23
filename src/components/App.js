@@ -15,7 +15,7 @@ const App = () => {
 
       <div className="row">
        
-          <ColourSelectorchangeColor={changeColor}  />
+          <ColourSelector changeColor={changeColor}  />
        
       </div>
 
